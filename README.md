@@ -1,16 +1,2 @@
-# quizapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2024-01-29-16-44-49-78_89e29d2567083688a78bff7a8e5cd521](https://github.com/prashant211/quiz_app/assets/108564234/7f5ede4d-145e-41c5-b376-84a711e6951e)
+![Screenshot_2024-01-29-16-44-46-41_89e29d2567083688a78bff7a8e5cd521](https://github.com/prashant211/quiz_app/assets/108564234/ba1e4e48-07a5-4bcc-b920-57ea05580f5b)
